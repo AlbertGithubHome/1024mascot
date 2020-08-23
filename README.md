@@ -7,7 +7,7 @@ show the various mascots in languages and technologies.
 
 | Lan&Tech |                       Moscot                       |
 | :------: | :------------------------------------------------: |
-|    Go    | ![Go](https://github.com/AlbertGithubHome/1024mascot/blob/master/asset/img/Go.png)                          |
+|    Go    | ![Go](https://github.com/AlbertGithubHome/1024mascot/raw/master/asset/img/Go.png)                          |
 |          |                                                    |
 |          |                                                    |
 
