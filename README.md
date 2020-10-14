@@ -9,5 +9,6 @@ show the various mascots in languages and technologies.
 | :------: | :----------------------------------------------------------: |
 |    Go    | ![Go](https://github.com/AlbertGithubHome/1024mascot/raw/master/asset/img/Go.png) |
 |  Docker  | ![Docker](https://github.com/AlbertGithubHome/1024mascot/raw/master/asset/img/Docker.png) |
+|  Python  | ![Python](https://github.com/AlbertGithubHome/1024mascot/raw/master/asset/img/Python.png) |
 |          |                                                              |
 
