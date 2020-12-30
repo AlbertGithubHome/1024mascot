@@ -11,5 +11,6 @@ show the various mascots in languages and technologies.
 |  Docker  | ![Docker](https://github.com/AlbertGithubHome/1024mascot/raw/master/asset/img/Docker.png) |
 |  Python  | ![Python](https://github.com/AlbertGithubHome/1024mascot/raw/master/asset/img/Python.png) |
 |  Linux   | ![Linux](https://github.com/AlbertGithubHome/1024mascot/raw/master/asset/img/Linux.png) |
+|   PHP    | ![Linux](https://github.com/AlbertGithubHome/1024mascot/raw/master/asset/img/PHP.png) |
 |          |                                                              |
 
